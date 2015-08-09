@@ -1,0 +1,25 @@
+{
+  "name": "rockfordweb-intro-slides",
+  "version": "1.0.0",
+  "description": "Intro/outro slides for Rockford Web Devs meetups",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockfordweb/intro-slides.git"
+  },
+  "keywords": [
+    "intro"
+  ],
+  "author": "Rockford Web Devs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockfordweb/intro-slides/issues"
+  },
+  "homepage": "https://github.com/rockfordweb/intro-slides#readme",
+  "dependencies": {
+    "reveal": "0.0.4"
+  }
+}
