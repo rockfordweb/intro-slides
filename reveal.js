@@ -3380,5 +3380,3 @@ var Reveal = (function(){
 	};
 
 })();
-
-module.exports = Reveal;
